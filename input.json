@@ -1,0 +1,67 @@
+
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Andrea",
+        "last": "Thomsen"
+      },
+      "location": {
+        "street": {
+          "number": 9644,
+          "name": "Vangen"
+        },
+        "city": "Lintrup",
+        "state": "Danmark",
+        "country": "Denmark",
+        "postcode": 62750,
+        "coordinates": {
+          "latitude": "-45.7281",
+          "longitude": "87.6149"
+        },
+        "timezone": {
+          "offset": "-2:00",
+          "description": "Mid-Atlantic"
+        }
+      },
+      "email": "andrea.thomsen@example.com",
+      "login": {
+        "uuid": "1fd5fe70-9931-4474-a409-c8e3454c5ff9",
+        "username": "organicsnake605",
+        "password": "151515",
+        "salt": "LogpCtAs",
+        "md5": "127bbef128291d0d24fdf708c1a9446d",
+        "sha1": "7821ab2227a24114dfd8d12773e8f603ed1f0d4c",
+        "sha256": "fea1f7cde48c4cf1012e51dc5e219fb655c94ce600192cfad660d636a2f1289e"
+      },
+      "dob": {
+        "date": "1997-04-11T19:59:29.231Z",
+        "age": 27
+      },
+      "registered": {
+        "date": "2006-07-10T14:52:57.595Z",
+        "age": 17
+      },
+      "phone": "32739968",
+      "cell": "52038121",
+      "id": {
+        "name": "CPR",
+        "value": "110497-2527"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/29.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+      },
+      "nat": "DK"
+    }
+  ],
+  "info": {
+    "seed": "d3f8facce7646bd6",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
